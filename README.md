@@ -7,3 +7,8 @@ The functionality is similar to an accordion. The difference is that the whole p
 Needs velocity.js and jQuery.
 
 Check out the Demo: http://codepen.io/niorad/pen/mJvGrW 
+
+
+## To do:
+- make velocity.js optional
+
